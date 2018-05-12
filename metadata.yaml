@@ -1,0 +1,53 @@
+_repo: Memoria-sobre-a-cultura-da-Urumbeba-e-sobre-cria--o-da-Cochonilha_40093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Berthollet, Claude-Louis
+    aliases:
+    - Berthollet, M. (Claude-Louis)
+    - Berthollet, Claudius-Ludovicus
+    - Berthollet, Claude Louis, comte
+    birthdate: 1748
+    deathdate: 1822
+    gutenberg_agent_id: '40407'
+    url: http://www.gutenberg.org/2009/agents/40407
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Louis_Berthollet
+  - agent_name: Velloso, José Mariano da Conceição
+    aliases:
+    - Veloso, José Mariano da Conceição
+    - Velloso, Jose Mariano da Conceicao
+    - Veloso, Jose Mariano da Conceicao
+    - Da Conceição Velloso, José Mariano
+    - Mariano Velloso, José
+    - Conceição Velloso, José Mariano da
+    birthdate: 1742
+    deathdate: 1811
+    gutenberg_agent_id: '31107'
+    url: http://www.gutenberg.org/2009/agents/31107
+  - agent_name: Thiéry de Menonville, Nicolas-Joseph
+    aliases:
+    - De Menonville, Nicolas-Joseph Thiéry
+    - Thiery de Menonville, Nicolas-Joseph
+    - Menonville, Nicolas-Joseph Thiéry de
+    birthdate: 1739
+    deathdate: 1780
+    gutenberg_agent_id: '45734'
+    url: http://www.gutenberg.org/2009/agents/45734
+description: ''
+gutenberg_issued: '2012-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40093'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Nopalea cochinellifera'
+- !lcsh 'Cactus'
+title: Memoria sobre a cultura da Urumbeba e sobre criação da Cochonilha
+url: http://www.gutenberg.org/ebooks/40093
